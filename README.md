@@ -11,9 +11,7 @@ Currently, two official plugins are available:
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 # Sobre o projeto
-O objetivo do projeto era clonar uma página de login/cadastro e uma página seja de feed, perfil, marketplace entre outros do mesmo site.
-No projeto em questão o site escolhido foi o Pinterest. Foram utilizados styled components em grande parte do projeto para estilização, sistemas
-de pages e components bem estrurados em suas pastas. Foram feitas duas paginas uma de Login e outra de Perfil, as duas trabalhando com componentes e com hook adicionado para teste.
+O objetivo deste projeto foi clonar a página de login/cadastro e uma página de feed ou perfil do Pinterest. Para isso, utilizei styled components para a estilização, organizando o código em um sistema de pastas bem estruturado para pages e components. O projeto incluiu a criação de duas páginas: uma de Login e outra de Perfil, ambas compostas por componentes reutilizáveis, com styled-components e hooks implementados para testes.
 
 ## Tela de login original(Original Login)
 ![Tela de login original](https://raw.githubusercontent.com/elipekkkj/PinterestClone-Individual/refs/heads/main/src/assets/TelaDeLoginDoPinterest.png)
